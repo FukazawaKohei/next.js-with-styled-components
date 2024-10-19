@@ -7,7 +7,7 @@ export default function About() {
       <Main>
         <Title>About Page</Title>
         <Description>
-          <Link href="/">&larr; Go Back</Link>
+          <Link href='/'>&larr; Go Back</Link>
         </Description>
       </Main>
     </Container>

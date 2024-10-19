@@ -1,6 +1,6 @@
 # next.js-with-styled-components について
 
-Next.js の [with-styled-components](https://github.com/vercel/next.js/tree/canary/examples/with-styled-components) を基にESLintやprettierを追加して最低限使いやすくしたスタート用プロジェクトです。
+Next.js の [with-styled-components](https://github.com/vercel/next.js/tree/canary/examples/with-styled-components) を基にBiomeを追加して最低限使いやすくしたスタート用プロジェクトです。
 また、パッケージマネージャーはyarnを使用しています。
 
 ## Next.jsの書き方について
