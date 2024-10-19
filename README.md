@@ -13,8 +13,7 @@ Next.js の [with-styled-components](https://github.com/vercel/next.js/tree/cana
 * Next.js ^14.2.13
 * React.js ^18.2.0
 * styled-components ^6.1.0
-* ESLint ^8.0.0
-* prettier ^3.3.3
+* Biome ^1.9.4
 
 ## ビルド関連
 
